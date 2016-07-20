@@ -1,0 +1,18 @@
+.wpb-content-layouts .wpb-layout-element-button .cq_allinone_thumbcaption {
+    background-image: url(../img/icon_thumbcaption.png)!important;
+    background-size: 32px;
+}
+.vc_element-icon.cq_allinone_thumbcaption{
+    background-image: url(../img/icon_thumbcaption.png)!important;
+    background-size: 32px;
+}
+.wpb_cq_vc_extension_thumbcaption.wpb_content_element > .wpb_element_wrapper {
+    background-image: url(../img/icon_thumbcaption.png)!important;
+    background-size: 32px;
+}
+.wpb-textarea_raw_html, .textarea_raw_html {
+  font-family: Arial!important;
+  color: #333!important;
+  font-size: 13px!important;
+  height: 90px;
+}
